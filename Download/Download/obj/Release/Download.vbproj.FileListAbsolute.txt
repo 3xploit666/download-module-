@@ -1,0 +1,10 @@
+C:\Users\crypt\Desktop\Download\Download\bin\Release\Download.exe
+C:\Users\crypt\Desktop\Download\Download\bin\Release\Download.pdb
+C:\Users\crypt\Desktop\Download\Download\bin\Release\Download.xml
+C:\Users\crypt\Desktop\Download\Download\obj\Release\Download.Resources.resources
+C:\Users\crypt\Desktop\Download\Download\obj\Release\Download.vbproj.GenerateResource.cache
+C:\Users\crypt\Desktop\Download\Download\obj\Release\Download.vbproj.CoreCompileInputs.cache
+C:\Users\crypt\Desktop\Download\Download\obj\Release\Download.exe
+C:\Users\crypt\Desktop\Download\Download\obj\Release\Download.xml
+C:\Users\crypt\Desktop\Download\Download\obj\Release\Download.pdb
+C:\Users\crypt\Desktop\Download\Download\obj\Release\Download.vbprojAssemblyReference.cache

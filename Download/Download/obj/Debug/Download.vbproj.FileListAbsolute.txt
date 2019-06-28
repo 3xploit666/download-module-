@@ -1,0 +1,20 @@
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\obj\Debug\Download.Resources.resources
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\obj\Debug\Download.vbproj.GenerateResource.Cache
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\bin\Debug\Download.exe
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\bin\Debug\Download.pdb
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\bin\Debug\Download.xml
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\obj\Debug\Download.exe
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\obj\Debug\Download.xml
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\obj\Debug\Download.pdb
+c:\users\booon\documents\visual studio 2012\Projects\Download\Download\obj\Debug\Download.Dialog1.resources
+C:\Users\crypt\Desktop\Download\Download\bin\Debug\Download.exe
+C:\Users\crypt\Desktop\Download\Download\bin\Debug\Download.pdb
+C:\Users\crypt\Desktop\Download\Download\bin\Debug\Download.xml
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.Resources.resources
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.vbproj.GenerateResource.cache
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.vbproj.CoreCompileInputs.cache
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.exe
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.xml
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.pdb
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.Form1.resources
+C:\Users\crypt\Desktop\Download\Download\obj\Debug\Download.vbprojAssemblyReference.cache
